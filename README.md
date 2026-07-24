@@ -27,7 +27,7 @@
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="https://github-readme-stats-no4auuvp4-khaeshis-projects.vercel.app/api?username=Khaeshi&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=10b981&text_color=c9d1d9&ring_color=10b981" width="100%"/>
+<img src="https://github-readme-stats-two-theta-62.vercel.app/api?username=Khaeshi&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=10b981&text_color=c9d1d9&ring_color=10b981" width="100%"/>
 
 </td>
 </tr>
@@ -50,7 +50,7 @@
 ### 📊 GitHub Analytics
 
 <img src="https://streak-stats.demolab.com/?user=Khaeshi&theme=dark&hide_border=true&background=0D1117&ring=10B981&fire=10B981&currStreakLabel=10B981" width="48%"/>
-<img src="https://github-readme-stats-no4auuvp4-khaeshis-projects.vercel.app/api/top-langs/?username=Khaeshi&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=10b981&text_color=c9d1d9&langs_count=8" width="38%"/>
+<img src="https://github-readme-stats-two-theta-62.vercel.app/api/top-langs/?username=Khaeshi&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=10b981&text_color=c9d1d9&langs_count=8" width="38%"/>
 
 </div>
 
