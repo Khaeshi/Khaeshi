@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d2e,100:10b981&height=220&section=header&text=Hey,%20I'm%20Khael%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20SWE%20Student%20%7C%20Builder%20of%20Things&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://ktabss.netlify.app/">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=10B981&center=true&vCenter=true&width=560&lines=Software+Engineering+Student+%40+MMDC;Full-Stack+Developer+(React+%2F+Next.js+%2F+Node);Building+FinMark+%E2%80%94+a+B2B+SaaS+microservices+platform;Turning+coffee+%E2%98%95+into+shipped+features" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=10B981&center=true&vCenter=true&width=650&height=30&lines=Software+Engineering+Student+%40+MMDC;Full-Stack+Dev+%E2%80%94+React+%2F+Next.js+%2F+Node;Building+FinMark%2C+a+B2B+SaaS+microservices+platform;Turning+coffee+%E2%98%95+into+shipped+features" alt="Typing SVG" />
 </a>
 
 </div>
@@ -27,7 +27,7 @@
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Khaeshi&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=10b981&text_color=c9d1d9&ring_color=10b981" width="100%"/>
+<img src="https://YOUR-VERCEL-INSTANCE.vercel.app/api?username=Khaeshi&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=10b981&text_color=c9d1d9&ring_color=10b981" width="100%"/>
 
 </td>
 </tr>
@@ -49,8 +49,8 @@
 
 ### 📊 GitHub Analytics
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Khaeshi&theme=dark&hide_border=true&background=0D1117&ring=10B981&fire=10B981&currStreakLabel=10B981" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khaeshi&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=10b981&text_color=c9d1d9&langs_count=8" width="38%"/>
+<img src="https://YOUR-STREAK-INSTANCE.vercel.app/?user=Khaeshi&theme=dark&hide_border=true&background=0D1117&ring=10B981&fire=10B981&currStreakLabel=10B981" width="48%"/>
+<img src="https://YOUR-VERCEL-INSTANCE.vercel.app/api/top-langs/?username=Khaeshi&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=10b981&text_color=c9d1d9&langs_count=8" width="38%"/>
 
 </div>
 
