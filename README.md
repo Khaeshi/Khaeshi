@@ -56,13 +56,13 @@
 
 <br/>
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-**[📊 FinMark](https://github.com/Khaeshi)**
+**[FinMark](https://github.com/Khaeshi)**
 B2B SaaS microservices platform — Next.js, Node.js/TypeScript services, Prisma + PostgreSQL, Redis, and a custom API gateway. Solo-built capstone project.
 
 `Next.js` `TypeScript` `Prisma` `Redis` `Docker`
@@ -70,7 +70,7 @@ B2B SaaS microservices platform — Next.js, Node.js/TypeScript services, Prisma
 </td>
 <td width="50%" valign="top">
 
-**[🏸 PlayKou](https://github.com/Khaeshi)**
+**[PlayKou](https://github.com/Khaeshi)**
 Multi-tenant badminton court booking & management SaaS. Super-admin dashboard, per-court booking pages, Xendit payments.
 
 `Next.js` `Express.js` `MongoDB` `Vercel` `Railway`
@@ -80,7 +80,7 @@ Multi-tenant badminton court booking & management SaaS. Super-admin dashboard, p
 <tr>
 <td width="50%" valign="top">
 
-**[💼 JobPortalVue](https://github.com/Khaeshi/JobPortalVue)**
+**[JobPortalVue](https://github.com/Khaeshi/JobPortalVue)**
 A recreation of a job portal platform built with Laravel, Vue, and TypeScript — upgraded from Tailwind v3 to v4.
 
 `Vue` `Laravel` `TypeScript` `Tailwind`
@@ -88,7 +88,7 @@ A recreation of a job portal platform built with Laravel, Vue, and TypeScript �
 </td>
 <td width="50%" valign="top">
 
-**[📚 LibraryManagementSystem](https://github.com/Khaeshi/LibraryManagementSystem)**
+**[LibraryManagementSystem](https://github.com/Khaeshi/LibraryManagementSystem)**
 A full library management system built on NetBeans/Java as a Senior High capstone, later refined in college coursework.
 
 `Java` `NetBeans` `OOP`
